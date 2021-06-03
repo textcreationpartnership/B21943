@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament for the preservation and safety of the Kingdom and the town of Hull with the assurance of both Houses to satisfie all losse sustained by any service done for the safety of the said town, by reason of the overflowing of the water upon any the grounds there to all persons that shall be found faithfull in their severall services : together wih an order of both Houses of Parliament to all lord lieutenants and deputy lieutenants of their severall counties, to raise forces to suppresse all disturbers of the peace.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21943</idno><idno type="EEBO-CITATION">10268505</idno>
+  <idno type="VID">204622</idno>
+  <idno type="EEBO-PROQUEST">2248508792</idno>
+  
+            <idno type="STC">Wing E1419A</idno>
+            <idno type="OCLC">10268505</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204622)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1382:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament for the preservation and safety of the Kingdom and the town of Hull with the assurance of both Houses to satisfie all losse sustained by any service done for the safety of the said town, by reason of the overflowing of the water upon any the grounds there to all persons that shall be found faithfull in their severall services : together wih an order of both Houses of Parliament to all lord lieutenants and deputy lieutenants of their severall counties, to raise forces to suppresse all disturbers of the peace.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Luke Norton and Iohn Field for Edward Husbands and Iohn Franck,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Ordered by the Lords and Commons that this be forthwith printed and published. H. Elsynge, Cler. Parl. D. Com."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204622:1"/>
+            <pb facs="tcp:204622:1"/>
+            <p>A DECLARATION Of the Lords and Commons Assembled in Parliament, For the preservation and safety of the Kingdom, and the Town of HVLL: WITH The assurance of both Houses to sa<g ref="char:EOLhyphen"/>tisfie all losse sustained by any service done for the safety of the said Town, by reason of the overflowing of the Water upon any the grounds there, to all persons that shall be found faithfull in their severall services. Together with an ORDER of both Houses of Parliament to all Lord Lieutenants and Deputy Lieutenants of their severall Coun<g ref="char:EOLhyphen"/>ties, to raise Forces to suppresse all di<g ref="char:EOLhyphen"/>sturbers of the peace.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>Ordered by the Lords and Commons, That this be forthwith Printed and published:</p>
+                           <closer>
+                              <signed>H. Elsynge, Cler. Parl. D. Com.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Luke Norton</hi> and <hi>Iohn Field,</hi> for <hi>Edward Husbands</hi> and <hi>Iohn Franck.</hi> July 13. 1642.</p>
+            <pb facs="tcp:204622:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb n="3" facs="tcp:204622:2"/>
+            <head>A Declaration of the Lords and Commons assembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S in all our endeavours since this Par<g ref="char:EOLhyphen"/>liament began, we intended wholly the advancement of His Majesties honour and safety, and the regainment of the ancient (though of late yeers much in<g ref="char:EOLhyphen"/>vaded) Rights, Laws, and Liberties, be<g ref="char:EOLhyphen"/>ing the birthright of the Subjects of this Land, and set<g ref="char:EOLhyphen"/>ling of the true Protestant Religion (the glory of our Nation) in peace and purity; so did we no lesse hope for, and expect His Majesties concurrence in those par<g ref="char:EOLhyphen"/>ticulars, they being the very foundation of His Maje<g ref="char:EOLhyphen"/>sties present honour and greatnesse, and the fountain of perfect and future blisse to himself, and all His loyall Subjects, which too evidently we see our selves (by the wicked Councellors now unmasked about his Majesty) not only deprived of, but insted thereof open war decla<g ref="char:EOLhyphen"/>red, and prosecuted against his Majesties loyall Subjects of <hi>Hull,</hi> and elswhere in this Kingdom, far unsutable to such Declarations of love and peace as His Majestie hath frequently promised and published to the King<g ref="char:EOLhyphen"/>dom; and in particular to the County of <hi>York,</hi> with sol<g ref="char:EOLhyphen"/>lemne protestations that He would not; nor had it en<g ref="char:EOLhyphen"/>tred His thoughts to make war against His Parliament, which how agreeable they are to the present courses of his Majesty &amp; Councellors, specially since frō his agents abroad He received provisions fit for war, which im<g ref="char:EOLhyphen"/>mediately
+<pb n="4" facs="tcp:204622:3"/> have been put on for execution, we referre to the whole world to judge of.</p>
+            <p>But however those promises and protestations have been no sooner made, but broken, and our hope of peace and safety thereby wholly disappointed. Yet that it may appeare to all Ages to come, that as in duty we are bound (the Kingdom having intrusted us) so we have not, nor will be found wanting in the least degree of our care and providence (God assisting us) for the preserva<g ref="char:EOLhyphen"/>tion of the whole Kingdom, and the Town of <hi>Hull,</hi> and the Inhabitants thereof from violence, and ruine, though for the effecting thereof His Majestie hath proceeded to many hostile preparations and acts, by having got di<g ref="char:EOLhyphen"/>vers Pieces of great Ordnance, and other warlike provi<g ref="char:EOLhyphen"/>sions both of horse and foot, for the taking in of the said Town, and His other designes; and by cutting off their fresh-water, intercepting and restraining of victualls and other necessaries for their subsistance and live<g ref="char:EOLhyphen"/>lihood, as if to obey the Parliaments Commands (that being Sir <hi>John Hothams</hi> Crime) though never so much for the safety of the whole Kingdom, were so capitall an offence, as nothing but death, ruine, and destruction could expiate.</p>
+            <p>Wherfore we the Lords and Commons in Parliament assembled have thought fit, and do hereby declare, That whereas Sir <hi>John Hotham</hi> Governour of <hi>Hull,</hi> by the speciall order of the Parliament appointed for that ser<g ref="char:EOLhyphen"/>vice, hath been forced for the prevention of the sudden surprisall, and destruction of the Town, and the Inha<g ref="char:EOLhyphen"/>bitants thereof, to let in some Tydes from <hi>Humber</hi> upon the grounds adjoyning to the said Town, which for pre<g ref="char:EOLhyphen"/>sent could not otherwise have been secured; We do
+<pb n="5" facs="tcp:204622:3"/> therefore hereby promise and assure al land every such person and persons whatsoever, either the Owners, or Farmers of any the said grounds which shall be impair<g ref="char:EOLhyphen"/>ed by this overflowing of the water, full and ample sa<g ref="char:EOLhyphen"/>tisfaction for all such losse as they or any of them shall thereby sustaine (except such persons only) as formerly have been, now are, or hereafter shall be found the stir<g ref="char:EOLhyphen"/>rers up, Abbettors, or furtherers of any such way, or meanes as have, or may conduce to the endangering, or annoyance of the said Town of <hi>Hull,</hi> or the Governour thereof in his service and duty therein, or shall any way disturb the peace and safety of the said Town, or any the Inhabitants thereof, who stand well affected thereto. And we do also declare, That We the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament assembled, will not onely protect, secure, and save harmlesse all and every such person, and persons whatsoever, as have or shall either by Sea, or Land provide, furnish, or deliver any provision of vic<g ref="char:EOLhyphen"/>tuall, beere, or other thing whatsoever for the relief and safety of the Garrison of <hi>Hull,</hi> but shall also make good payment for the same, and thankfully accept thereof, as good service done to the Kingdom, any pretended war<g ref="char:EOLhyphen"/>rant issued, or hereafter to be issued out under the co<g ref="char:EOLhyphen"/>lour of any name or authority whatsoever to the contra<g ref="char:EOLhyphen"/>ry notwithstanding: And for as much as we are informed that some of the Inhabitants of <hi>Hull</hi> stand firmly resol<g ref="char:EOLhyphen"/>ved in their good affections to the service, and safe kee<g ref="char:EOLhyphen"/>ping of the said Town, for the good of the King and Kingdom, We thought fit also to declare, That all such of the Inhabitants thereof as shall continue well affected to the said service, and stand close in their fidelitie and assistance to the Governour thereof; we do hereby as<g ref="char:EOLhyphen"/>sure
+<pb n="6" facs="tcp:204622:4"/> and promise them, that they shall receive from us protection and encouragement answerable to such a ser<g ref="char:EOLhyphen"/>vice, as will be very acceptable unto us, in respect of the importance of it for the preservation of Religion and safety of this Kingdom. And lastly, We do declare our acknowledgement, acceptance, and approbation of that prudent valour, vigillancy and faithfullnesse of the Governour; Officers and Souldiers imployed in the said Town, both for the discovery of plots formerly contrived for the betraying of the said Town, and their undaunted resolutions to keep the same against whom<g ref="char:EOLhyphen"/>soever for the service of His Majestie and Kingdom; And do promise and assure them, that every particular good service done or to be done by any Commander or Souldier serving, or to serve therein, shall be rewarded as shall answer the greatnesse of this Kingdom, and the qualitie of the service.</p>
+         </div>
+         <div type="proclamation">
+            <pb n="7" facs="tcp:204622:4"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Lunae,</hi> 4. <hi>Julii,</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>IT is this day Resolved upon the Question by the Lords and Commons in Parliament assembled, That in case any force be brought out of one Coun<g ref="char:EOLhyphen"/>ty into any other County of this Kingdom, to disturb the peace thereof; That the Lord Lieutenants and Deputy Lieutenants of the Counties adjoyning upon notice given unto them of such disturbance, by the Lord Lieutenants or Deputy Lieutenants where such distur<g ref="char:EOLhyphen"/>bance is made, be hereby required to give aid and assis<g ref="char:EOLhyphen"/>tance to the said other Lord Lieutenants and Deputy Lieutenants or any of them, so requiring the same, for the present suppressing of such force and disturbers of the peace, by Voluntiers, and such of the Trained Bands of their severall Counties that shall voluntarily go to give their assistance.</p>
+            <closer>
+               <signed>H. Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
